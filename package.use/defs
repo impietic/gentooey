@@ -1,0 +1,5 @@
+app-alternatives/bc gh -gnu
+app-admin/doas persist
+sys-kernel/installkernel ugrd grub
+sys-libs/zlib-ng compat
+sys-apps/systemd sysv-utils
